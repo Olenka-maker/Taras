@@ -1,0 +1,41 @@
+header img {
+    width: 175px;
+}
+
+body {
+    background-color: #efffd4;
+
+}
+
+h1 {
+    color:#428f40;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #efffd4;
+    background-color: #428f40;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+nav{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+
+i{
+ background-color:#478145;   
+     color: #efffd4;
+}
+p{
+color:#428f40;    
+}
+main img{
+width: 400px;
+height: 300px;    
+}
